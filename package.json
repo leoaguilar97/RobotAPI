@@ -1,0 +1,27 @@
+{
+  "name": "robotapi",
+  "version": "1.0.0",
+  "description": "Robots API",
+  "main": "index.js",
+  "scripts": {
+    "test": "test -m"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leoaguilar97/RobotAPI.git"
+  },
+  "keywords": [
+    "ROBOTS",
+    "REST",
+    "CROSS-PLATFORM"
+  ],
+  "author": "Marooned",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leoaguilar97/RobotAPI/issues"
+  },
+  "homepage": "https://github.com/leoaguilar97/RobotAPI#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
